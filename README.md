@@ -43,7 +43,7 @@ Through this project, I'm practicing:
 
 Tutorial inspiration: Tech2etc
 
-Tutorial: *Build and Deploy Ecommerce Website Using HTML CSS JavaScript | Responsive Website*
+Tutorial: *Build and Deploy Ecommerce Website Using HTML CSS JavaScript | Responsive Website* [https://youtube.com/playlist?list=PL9bD98LkBR7P8MYh0RzNSHgeVNTA8g0nB&si=C7totgkPUNHrppgR]
 
 ## Author
 
